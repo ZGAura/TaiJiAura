@@ -1,0 +1,1 @@
+在此放置 overview.gif、metrics.png、temperature.png、docking.gif、display.png、languages.png 和 setup.png，随后取消根 README 中对应图片行的注释。

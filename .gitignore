@@ -1,0 +1,12 @@
+/scr/build/
+/scr/dist/
+/scr/CMakeUserPresets.json
+/scr/.vs/
+/scr/.vscode/
+*.pdb
+*.user
+DesktopBall.ini
+
+TaiJiAura.ini
+*.log
+

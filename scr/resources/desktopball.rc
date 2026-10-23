@@ -1,0 +1,26 @@
+#include <windows.h>
+#include "resource.h"
+IDI_DESKTOPBALL ICON "DesktopBall.ico"
+1 RT_MANIFEST "desktopball.manifest"
+
+1 VERSIONINFO
+FILEVERSION 1,0,0,0
+PRODUCTVERSION 1,0,0,0
+FILETYPE VFT_APP
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904B0"
+        BEGIN
+            VALUE "FileDescription", "TaiJiAura\0"
+            VALUE "ProductName", "TaiJiAura\0"
+            VALUE "FileVersion", "1.0.0\0"
+            VALUE "ProductVersion", "1.0.0\0"
+            VALUE "OriginalFilename", "TaiJiAura.exe\0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x0409, 1200
+    END
+END
